@@ -1,0 +1,8 @@
+Flask_Uploads
+Flask_RESTful
+numpy==1.18.0
+Flask_Cors
+Flask_JWT_Extended
+Flask
+opencv_python==4.1.2.30
+
